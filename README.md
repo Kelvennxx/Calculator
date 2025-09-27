@@ -1,3 +1,3 @@
 # Calculator
 
-#Try now at: https://kelvennxx.github.io/Calculator/
+Try now: https://kelvennxx.github.io/Calculator/
